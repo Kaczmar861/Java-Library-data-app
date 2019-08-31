@@ -3,4 +3,5 @@
 Database application for Library
 
 31-08-2019
-adding classes and objects to app
+added classes and objects to app
+added constructor to easier adding books
