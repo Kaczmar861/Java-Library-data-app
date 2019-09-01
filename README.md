@@ -7,3 +7,6 @@ added classes and objects to app;
 added constructor to easier adding books;
 added concstructor overload (because not all books have isbn number);
 added JavaBeans convention (access levels, different packages, setters and getters);
+
+01-09-2019
+added condition for isbn number (this condition check that is isbn number is present or not);
