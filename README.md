@@ -10,3 +10,7 @@ added JavaBeans convention (access levels, different packages, setters and gette
 
 01-09-2019
 added condition for isbn number (this condition check that is isbn number is present or not);
+
+07-09-2019
+added arrays and tab feature to app (for creating objects in database)
+
