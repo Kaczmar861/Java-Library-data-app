@@ -15,5 +15,6 @@ added condition for isbn number (this condition check that is isbn number is pre
 added arrays and tab feature to app (for creating objects in database)
 
 03-10-2019
-
+new class to have communication with user.
+Now user can input information from keyboard to program
 
