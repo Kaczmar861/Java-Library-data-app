@@ -18,3 +18,6 @@ added arrays and tab feature to app (for creating objects in database)
 new class to have communication with user.
 Now user can input information from keyboard to program
 
+05-10-2019
+added control loop to program
+
