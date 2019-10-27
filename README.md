@@ -21,3 +21,6 @@ Now user can input information from keyboard to program
 05-10-2019
 added control loop to program
 
+27-10-2019
+added static fields and variables
+
